@@ -1,47 +1,47 @@
-Category,Items,Cost,Calories,Total Fat (g),Sodium (mg),Carbohydrates (g),Sugars (g),Protein (g)
-Sandwich,Black Forest Ham,4.99,260,4,720,42,8,18
-Sandwich,Chicken & Bacon Ranch Melt,6.29,530,26,1100,41,6,36
-Sandwich,Classic Tuna,5.29,450,25,610,38,5,19
-Sandwich,Cold Cut Combo,3.99,320,12,1060,40,5,16
-Sandwich,Meatball Marinara,4.99,420,18,1040,47,7,19
-Sandwich,Ham & Jack Slider,1.89,150,4.5,470,18,1,8
-Sandwich,Italian Spice Slider,1.89,230,14,690,18,2,8
-Sandwich,Little Cheesesteak Slider,2.39,170,7,430,19,2,7
-Sandwich,Steak Club,7.29,490,25,1330,40,6,27
-Sandwich,Ultimate Steak,7.49,600,35,1330,42,6,31
-Sandwich,Roast Beef,6.29,280,4.5,630,40,7,25
-Sandwich,Rotisserie-Style Chicken,5.29,310,6,520,40,7,28
-Sandwich,Spicy Italian,5.99,450,24,1240,40,5,18
-Sandwich,Subway Club®,6.29,280,4,780,41,7,25
-Sandwich,Sweet Onion Chicken Teriyaki,5.29,320,4,720,52,16,25
-Sandwich,Turkey & Bacon Guacamole,8.29,780,27,2200,87,11,49
-Sandwich,Turkey Breast,5.29,250,3,690,41,6,20
-Sandwich,Veggie Delite®,3.49,190,2,240,39,6,9
-Salad,Black Forest Ham,7.99,120,3,550,12,6,13
-Salad,Chicken & Bacon Ranch,8.78,460,33,1000,13,7,32
-Salad,Cold Cut Combo,6.49,180,11,830,12,5,12
-Salad,Meatball Marinara,6.48,290,16,780,22,9,15
-Salad,Roast Beef,8.78,140,3.5,460,10,5,19
-Salad,Rotisserie-Style Chicken,7.78,170,5,360,10,5,23
-Salad,Steak & Cheese,8.78,200,9,830,13,7,19
-Salad,Steak Club Salad,7.99,480,26,2050,21,9,44
-Salad,Subway Club®,8.78,140,3,610,11,5,19
-Salad,Sweet Onion Chicken Teriyaki,7.78,210,3,620,30,21,19
-Salad,Tuna,7.78,310,24,370,10,5,15
-Salad,Turkey Breast,7.78,110,2,520,11,5,14
-Salad,Veggie Delite®,5.98,50,1,75,9,5,3
-Breakfast,"Bacon, Egg & Cheese",4.29,450,20,1200,45,4,24
-Breakfast,"Black Forest Ham, Egg & Cheese",4.29,410,16,1180,45,4,24
-Breakfast,Egg & Cheese,3.99,380,15,950,44,3,19
-Breakfast,"Steak, Egg & Cheese",4.29,440,18,1270,46,4,27
-Dessert,Caramel Apple Cookie,0.6,210,6,65,37,26,2
-Dessert,Chocolate Chip Cookie,0.6,210,10,120,29,18,2
-Dessert,Chocolate Chip with M&M,0.6,210,10,100,30,18,2
-Dessert,Chocolate Chunk Cookie,0.6,210,10,100,30,17,2
-Dessert,Dark Chocolate Cherry Cookie,0.6,200,8,100,33,24,2
-Dessert,Double Chocolate,0.6,210,9,130,30,20,2
-Dessert,Oatmeal Raisin Cookie,0.6,200,8,130,30,16,3
-Dessert,Raspberry Cheesecake Cookie,0.6,200,9,120,29,16,2
-Dessert,Raspberry Lemonade Cookie,0.6,230,11,100,31,20,2
-Dessert,Sugar Cookie,0.6,230,12,130,28,14,2
-Dessert,White Chip Macadamia Nut Cookie,0.6,220,11,130,28,17,2
+Category,Items,Cost,Calories,Total Fat (g),Carbohydrates (g),Sugars (g),Protein (g),Sodium (g)
+Sandwich,Black Forest Ham,4.99,260,4,42,8,18,0.72
+Sandwich,Chicken & Bacon Ranch Melt,6.29,530,26,41,6,36,1.1
+Sandwich,Classic Tuna,5.29,450,25,38,5,19,0.61
+Sandwich,Cold Cut Combo,3.99,320,12,40,5,16,1.06
+Sandwich,Meatball Marinara,4.99,420,18,47,7,19,1.04
+Sandwich,Ham & Jack Slider,1.89,150,4.5,18,1,8,0.47
+Sandwich,Italian Spice Slider,1.89,230,14,18,2,8,0.69
+Sandwich,Little Cheesesteak Slider,2.39,170,7,19,2,7,0.43
+Sandwich,Steak Club,7.29,490,25,40,6,27,1.33
+Sandwich,Ultimate Steak,7.49,600,35,42,6,31,1.33
+Sandwich,Roast Beef,6.29,280,4.5,40,7,25,0.63
+Sandwich,Rotisserie-Style Chicken,5.29,310,6,40,7,28,0.52
+Sandwich,Spicy Italian,5.99,450,24,40,5,18,1.24
+Sandwich,Subway Club®,6.29,280,4,41,7,25,0.78
+Sandwich,Sweet Onion Chicken Teriyaki,5.29,320,4,52,16,25,0.72
+Sandwich,Turkey & Bacon Guacamole,8.29,780,27,87,11,49,2.2
+Sandwich,Turkey Breast,5.29,250,3,41,6,20,0.69
+Sandwich,Veggie Delite®,3.49,190,2,39,6,9,0.24
+Salad,Black Forest Ham,7.99,120,3,12,6,13,0.55
+Salad,Chicken & Bacon Ranch,8.78,460,33,13,7,32,1
+Salad,Cold Cut Combo,6.49,180,11,12,5,12,0.83
+Salad,Meatball Marinara,6.48,290,16,22,9,15,0.78
+Salad,Roast Beef,8.78,140,3.5,10,5,19,0.46
+Salad,Rotisserie-Style Chicken,7.78,170,5,10,5,23,0.36
+Salad,Steak & Cheese,8.78,200,9,13,7,19,0.83
+Salad,Steak Club Salad,7.99,480,26,21,9,44,2.05
+Salad,Subway Club®,8.78,140,3,11,5,19,0.61
+Salad,Sweet Onion Chicken Teriyaki,7.78,210,3,30,21,19,0.62
+Salad,Tuna,7.78,310,24,10,5,15,0.37
+Salad,Turkey Breast,7.78,110,2,11,5,14,0.52
+Salad,Veggie Delite®,5.98,50,1,9,5,3,0.075
+Breakfast,"Bacon, Egg & Cheese",4.29,450,20,45,4,24,1.2
+Breakfast,"Black Forest Ham, Egg & Cheese",4.29,410,16,45,4,24,1.18
+Breakfast,Egg & Cheese,3.99,380,15,44,3,19,0.95
+Breakfast,"Steak, Egg & Cheese",4.29,440,18,46,4,27,1.27
+Dessert,Caramel Apple Cookie,0.6,210,6,37,26,2,0.065
+Dessert,Chocolate Chip Cookie,0.6,210,10,29,18,2,0.12
+Dessert,Chocolate Chip with M&M,0.6,210,10,30,18,2,0.1
+Dessert,Chocolate Chunk Cookie,0.6,210,10,30,17,2,0.1
+Dessert,Dark Chocolate Cherry Cookie,0.6,200,8,33,24,2,0.1
+Dessert,Double Chocolate,0.6,210,9,30,20,2,0.13
+Dessert,Oatmeal Raisin Cookie,0.6,200,8,30,16,3,0.13
+Dessert,Raspberry Cheesecake Cookie,0.6,200,9,29,16,2,0.12
+Dessert,Raspberry Lemonade Cookie,0.6,230,11,31,20,2,0.1
+Dessert,Sugar Cookie,0.6,230,12,28,14,2,0.13
+Dessert,White Chip Macadamia Nut Cookie,0.6,220,11,28,17,2,0.13

@@ -1,52 +1,52 @@
-Category,Items,Cost,Calories,Protein (g),Total Fat (g),Total Carbs (g),Sodium (mg),Sugar (g)
-Breakfast,"Bacon, Egg & Cheese Biscuit",3.09,500,21,27,43,1370,8
-Breakfast,Biscuit,1.09,310,5,13,41,700,9
-Breakfast,Chicken Biscuit,2.69,440,17,20,47,1240,8
-Breakfast,Chicken Breakfast Burrito,3.95,450,24,20,43,990,11
-Breakfast,"Chicken, Egg & Cheese Bagel",3.99,480,29,20,49,1230,12
-Breakfast,Sausage Biscuit,2.69,590,16,41,42,1250,9
-Breakfast,Sausage Breakfast Burrito,3.55,510,23,29,40,970,11
-Breakfast,Yogurt Parfait,2.45,230,6,3,44,60,15
-Breakfast,Yogurt Parfait with Chocolate Cookie Crumbs,2.95,240,7,5,47,75,23
-Breakfast,Yogurt Parfait with Granola,2.95,290,7,5,54,70,21
-Sandwich,Chargrilled Chicken Club Sandwich,5.59,410,37,12,39,1460,16
-Sandwich,Chargrilled Chicken Sandwich,5.59,300,29,4,38,1120,17
-Side,Chick-n-Strips: 4 count,4.39,500,47,24,24,1630,21
-Sandwich,Chicken Deluxe Sandwich,3.65,500,35,21,43,1630,18
-Sandwich,Chicken Salad Sandwich,3.99,500,29,20,52,1240,14
-Sandwich,Chicken Sandwich,3.05,430,31,17,39,1370,14
-Side,Nuggets: 12-count,4.45,400,42,17,18,1480,19
-Sandwich,Spicy Chicken Deluxe Sandwich,3.89,580,36,27,48,1880,13
-Sandwich,Spicy Chicken Sandwich,3.29,490,31,20,46,1730,58
-Dessert,Chocolate Milkshake:Large,3.15,750,16,28,113,520,90
-Dessert,Cookie & Cream Milkshake:Large,3.15,700,17,33,100,550,92
-Dessert,Icecream:cone,1.65,170,5,4,31,115,31
-Dessert,Peach Milkshake: Large,3.15,850,15,21,153,540,28
-Dessert,Straw berry Milkshake: Large,3.15,770,16,28,118,530,28
-Dessert,Vanilla Milkshake: Large,3.15,660,16,27,91,510,90
-Drink,100% Colombian Coffee: Large,2.35,5,1,0,0,10,67
-Drink,Chocolate Milk,1.19,160,6,2,21,190,54
-Drink,Coca-Cola: Large,1.85,250,0,0,69,25,102
-Drink,Dasani Bottled Water,1.59,0,0,0,0,0,2
-Drink,Diet Coke: Large,1.85,5,0,0,0,10,6
-Drink,Diet Lemonade: Large,1.85,30,0,0,11,15,6
-Drink,Dr. Pepper: Larger,1.85,260,0,0,70,90,126
-Drink,Iced Tea- Sweetened: Large,1.85,220,0,0,57,15,157
-Drink,Iced Tea- Unsweetened: Large,1.85,0,0,0,0,20,120
-Drink,Lemonade: Large,1.98,350,0,0,92,15,90
-Drink,Milk,1.19,110,7,4,12,115,52
-Drink,Minute Maid Apple Juice Box,1.09,100,0,0,23,15,70
-Drink,Orange Juice,2.15,140,2,0,33,0,65
-Salad,Chargrilled & Fruit Salad,8.19,230,22,6,23,650,15
-Salad,Chargrilled Chicken Garden Salad,8.19,180,22,6,11,650,6
-Salad,Chick-n-Strip Salad,8.19,470,41,23,27,1340,8
-Salad,Garlic and Butter Croutons,6.19,60,1,2,9,150,15
-Salad,Southwest Chargrilled Salad,8.19,240,26,9,18,820,7
-Sandwich,Chargrilled Chicken Cool Wrap,5.19,410,33,12,50,1300,8
-Sandwich,Chicken Caesar Cool Wrap,5.19,460,39,15,47,1520,10
-Sandwich,Spicy Chicken Cool Wrap,5.19,410,35,12,48,1380,13
-Salad,Chicken Salad Cup,5.15,350,27,24,6,1100,4
-Salad,Fruit Cup: large,4.25,100,1,0,27,0,10
-Salad,Hearty Breast of Chicken Soup: large,8.35,220,12,6,30,1760,5
-Side,Side Salad,2.89,70,5,5,5,110,3
-Side,Waffle Potato Fries: large,1.85,430,5,23,50,210,7
+Category,Items,Cost (USD),Calories,Protein (g),Total Fat (g),Total Carbs (g),Sugar (g),Sodium (g)
+Breakfast,"Bacon, Egg & Cheese Biscuit",3.09,500,21,27,43,8,1.37
+Breakfast,Biscuit,1.09,310,5,13,41,9,0.7
+Breakfast,Chicken Biscuit,2.69,440,17,20,47,8,1.24
+Breakfast,Chicken Breakfast Burrito,3.95,450,24,20,43,11,0.99
+Breakfast,"Chicken, Egg & Cheese Bagel",3.99,480,29,20,49,12,1.23
+Breakfast,Sausage Biscuit,2.69,590,16,41,42,9,1.25
+Breakfast,Sausage Breakfast Burrito,3.55,510,23,29,40,11,0.97
+Breakfast,Yogurt Parfait,2.45,230,6,3,44,15,0.06
+Breakfast,Yogurt Parfait with Chocolate Cookie Crumbs,2.95,240,7,5,47,23,0.075
+Breakfast,Yogurt Parfait with Granola,2.95,290,7,5,54,21,0.07
+Sandwich,Chargrilled Chicken Club Sandwich,5.59,410,37,12,39,16,1.46
+Sandwich,Chargrilled Chicken Sandwich,5.59,300,29,4,38,17,1.12
+Side,Chick-n-Strips: 4 count,4.39,500,47,24,24,21,1.63
+Sandwich,Chicken Deluxe Sandwich,3.65,500,35,21,43,18,1.63
+Sandwich,Chicken Salad Sandwich,3.99,500,29,20,52,14,1.24
+Sandwich,Chicken Sandwich,3.05,430,31,17,39,14,1.37
+Side,Nuggets: 12-count,4.45,400,42,17,18,19,1.48
+Sandwich,Spicy Chicken Deluxe Sandwich,3.89,580,36,27,48,13,1.88
+Sandwich,Spicy Chicken Sandwich,3.29,490,31,20,46,58,1.73
+Dessert,Chocolate Milkshake:Large,3.15,750,16,28,113,90,0.52
+Dessert,Cookie & Cream Milkshake:Large,3.15,700,17,33,100,92,0.55
+Dessert,Icecream:cone,1.65,170,5,4,31,31,0.115
+Dessert,Peach Milkshake: Large,3.15,850,15,21,153,28,0.54
+Dessert,Straw berry Milkshake: Large,3.15,770,16,28,118,28,0.53
+Dessert,Vanilla Milkshake: Large,3.15,660,16,27,91,90,0.51
+Drink,100% Colombian Coffee: Large,2.35,5,1,0,0,67,0.01
+Drink,Chocolate Milk,1.19,160,6,2,21,54,0.19
+Drink,Coca-Cola: Large,1.85,250,0,0,69,102,0.025
+Drink,Dasani Bottled Water,1.59,0,0,0,0,2,0
+Drink,Diet Coke: Large,1.85,5,0,0,0,6,0.01
+Drink,Diet Lemonade: Large,1.85,30,0,0,11,6,0.015
+Drink,Dr. Pepper: Larger,1.85,260,0,0,70,126,0.09
+Drink,Iced Tea- Sweetened: Large,1.85,220,0,0,57,157,0.015
+Drink,Iced Tea- Unsweetened: Large,1.85,0,0,0,0,120,0.02
+Drink,Lemonade: Large,1.98,350,0,0,92,90,0.015
+Drink,Milk,1.19,110,7,4,12,52,0.115
+Drink,Minute Maid Apple Juice Box,1.09,100,0,0,23,70,0.015
+Drink,Orange Juice,2.15,140,2,0,33,65,0
+Salad,Chargrilled & Fruit Salad,8.19,230,22,6,23,15,0.65
+Salad,Chargrilled Chicken Garden Salad,8.19,180,22,6,11,6,0.65
+Salad,Chick-n-Strip Salad,8.19,470,41,23,27,8,1.34
+Salad,Garlic and Butter Croutons,6.19,60,1,2,9,15,0.15
+Salad,Southwest Chargrilled Salad,8.19,240,26,9,18,7,0.82
+Sandwich,Chargrilled Chicken Cool Wrap,5.19,410,33,12,50,8,1.3
+Sandwich,Chicken Caesar Cool Wrap,5.19,460,39,15,47,10,1.52
+Sandwich,Spicy Chicken Cool Wrap,5.19,410,35,12,48,13,1.38
+Salad,Chicken Salad Cup,5.15,350,27,24,6,4,1.1
+Salad,Fruit Cup: large,4.25,100,1,0,27,10,0
+Salad,Hearty Breast of Chicken Soup: large,8.35,220,12,6,30,5,1.76
+Side,Side Salad,2.89,70,5,5,5,3,0.11
+Side,Waffle Potato Fries: large,1.85,430,5,23,50,7,0.21
