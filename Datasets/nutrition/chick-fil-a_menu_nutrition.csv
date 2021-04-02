@@ -18,35 +18,35 @@
 21,Side,Nuggets: 12-count,400,42,17,18,1480,4.45
 22,Sandwich,Spicy Chicken Deluxe Sandwich,580,36,27,48,1880,3.89
 23,Sandwich,Spicy Chicken Sandwich,490,31,20,46,1730,3.29
-34,Desserts,Chocolate Milkshake:Large,750,16,28,113,520,3.15
-35,Desserts,Cookie & Cream Milkshake:Large,700,17,33,100,550,3.15
-37,Desserts,Icecream:cone,170,5,4,31,115,1.65
-39,Desserts,Peach Milkshake: Large,850,15,21,153,540,3.15
-40,Desserts,Straw berry Milkshake: Large,770,16,28,118,530,3.15
-41,Desserts,Vanilla Milkshake: Large,660,16,27,91,510,3.15
-59,Drinks,100% Colombian Coffee: Large,5,1,0,0,10,2.35
-60,Drinks,Chocolate Milk,160,6,2,21,190,1.19
-61,Drinks,Coca-Cola: Large,250,0,0,69,25,1.85
-62,Drinks,Dasani Bottled Water,0,0,0,0,0,1.59
-63,Drinks,Diet Coke: Large,5,0,0,0,10,1.85
-64,Drinks,Diet Lemonade: Large,30,0,0,11,15,1.85
-65,Drinks,Dr. Pepper: Larger,260,0,0,70,90,1.85
-66,Drinks,Iced Tea- Sweetened: Large,220,0,0,57,15,1.85
-67,Drinks,Iced Tea- Unsweetened: Large,0,0,0,0,20,1.85
-68,Drinks,Lemonade: Large,350,0,0,92,15,1.98
-69,Drinks,Milk,110,7,4,12,115,1.19
-70,Drinks,Minute Maid Apple Juice Box,100,0,0,23,15,1.09
-71,Drinks,Orange Juice,140,2,0,33,0,2.15
-73,Salads,Chargrilled & Fruit Salad,230,22,6,23,650,8.19
-74,Salads,Chargrilled Chicken Garden Salad,180,22,6,11,650,8.19
-75,Salads,Chick-n-Strip Salad,470,41,23,27,1340,8.19
-76,Salads,Garlic and Butter Croutons,60,1,2,9,150,6.19
-79,Salads,Southwest Chargrilled Salad,240,26,9,18,820,8.19
-82,Salads,Chargrilled Chicken Cool Wrap,410,33,12,50,1300,5.19
-83,Salads,Chicken Caesar Cool Wrap,460,39,15,47,1520,5.19
-84,Salads,Spicy Chicken Cool Wrap,410,35,12,48,1380,5.19
-87,Salads,Chicken Salad Cup,350,27,24,6,1100,5.15
-89,Salads,Fruit Cup: large,100,1,0,27,0,4.25
-90,Salads,Hearty Breast of Chicken Soup: large,220,12,6,30,1760,8.35
+34,Dessert,Chocolate Milkshake:Large,750,16,28,113,520,3.15
+35,Dessert,Cookie & Cream Milkshake:Large,700,17,33,100,550,3.15
+37,Dessert,Icecream:cone,170,5,4,31,115,1.65
+39,Dessert,Peach Milkshake: Large,850,15,21,153,540,3.15
+40,Dessert,Straw berry Milkshake: Large,770,16,28,118,530,3.15
+41,Dessert,Vanilla Milkshake: Large,660,16,27,91,510,3.15
+59,Drink,100% Colombian Coffee: Large,5,1,0,0,10,2.35
+60,Drink,Chocolate Milk,160,6,2,21,190,1.19
+61,Drink,Coca-Cola: Large,250,0,0,69,25,1.85
+62,Drink,Dasani Bottled Water,0,0,0,0,0,1.59
+63,Drink,Diet Coke: Large,5,0,0,0,10,1.85
+64,Drink,Diet Lemonade: Large,30,0,0,11,15,1.85
+65,Drink,Dr. Pepper: Larger,260,0,0,70,90,1.85
+66,Drink,Iced Tea- Sweetened: Large,220,0,0,57,15,1.85
+67,Drink,Iced Tea- Unsweetened: Large,0,0,0,0,20,1.85
+68,Drink,Lemonade: Large,350,0,0,92,15,1.98
+69,Drink,Milk,110,7,4,12,115,1.19
+70,Drink,Minute Maid Apple Juice Box,100,0,0,23,15,1.09
+71,Drink,Orange Juice,140,2,0,33,0,2.15
+73,Salad,Chargrilled & Fruit Salad,230,22,6,23,650,8.19
+74,Salad,Chargrilled Chicken Garden Salad,180,22,6,11,650,8.19
+75,Salad,Chick-n-Strip Salad,470,41,23,27,1340,8.19
+76,Salad,Garlic and Butter Croutons,60,1,2,9,150,6.19
+79,Salad,Southwest Chargrilled Salad,240,26,9,18,820,8.19
+82,Salad,Chargrilled Chicken Cool Wrap,410,33,12,50,1300,5.19
+83,Salad,Chicken Caesar Cool Wrap,460,39,15,47,1520,5.19
+84,Salad,Spicy Chicken Cool Wrap,410,35,12,48,1380,5.19
+87,Salad,Chicken Salad Cup,350,27,24,6,1100,5.15
+89,Salad,Fruit Cup: large,100,1,0,27,0,4.25
+90,Salad,Hearty Breast of Chicken Soup: large,220,12,6,30,1760,8.35
 91,Side,Side Salad,70,5,5,5,110,2.89
 92,Side,Waffle Potato Fries: large,430,5,23,50,210,1.85
