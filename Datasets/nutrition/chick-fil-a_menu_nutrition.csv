@@ -9,15 +9,15 @@
 11,Breakfast,Yogurt Parfait,230,6,3,44,60,2.45
 12,Breakfast,Yogurt Parfait with Chocolate Cookie Crumbs,240,7,5,47,75,2.95
 13,Breakfast,Yogurt Parfait with Granola,290,7,5,54,70,2.95
-15,Classics,Chargrilled Chicken Club Sandwich,410,37,12,39,1460,5.59
-16,Classics,Chargrilled Chicken Sandwich,300,29,4,38,1120,5.59
-17,Classics,Chick-n-Strips: 4 count,500,47,24,24,1630,4.39
-18,Classics,Chicken Deluxe Sandwich,500,35,21,43,1630,3.65
-19,Classics,Chicken Salad Sandwich,500,29,20,52,1240,3.99
-20,Classics,Chicken Sandwich,430,31,17,39,1370,3.05
-21,Classics,Nuggets: 12-count,400,42,17,18,1480,4.45
-22,Classics,Spicy Chicken Deluxe Sandwich,580,36,27,48,1880,3.89
-23,Classics,Spicy Chicken Sandwich,490,31,20,46,1730,3.29
+15,Sandwich,Chargrilled Chicken Club Sandwich,410,37,12,39,1460,5.59
+16,Sandwich,Chargrilled Chicken Sandwich,300,29,4,38,1120,5.59
+17,Side,Chick-n-Strips: 4 count,500,47,24,24,1630,4.39
+18,Sandwich,Chicken Deluxe Sandwich,500,35,21,43,1630,3.65
+19,Sandwich,Chicken Salad Sandwich,500,29,20,52,1240,3.99
+20,Sandwich,Chicken Sandwich,430,31,17,39,1370,3.05
+21,Side,Nuggets: 12-count,400,42,17,18,1480,4.45
+22,Sandwich,Spicy Chicken Deluxe Sandwich,580,36,27,48,1880,3.89
+23,Sandwich,Spicy Chicken Sandwich,490,31,20,46,1730,3.29
 34,Desserts,Chocolate Milkshake:Large,750,16,28,113,520,3.15
 35,Desserts,Cookie & Cream Milkshake:Large,700,17,33,100,550,3.15
 37,Desserts,Icecream:cone,170,5,4,31,115,1.65
@@ -48,5 +48,5 @@
 87,Salads,Chicken Salad Cup,350,27,24,6,1100,5.15
 89,Salads,Fruit Cup: large,100,1,0,27,0,4.25
 90,Salads,Hearty Breast of Chicken Soup: large,220,12,6,30,1760,8.35
-91,Classics,Side Salad,70,5,5,5,110,2.89
-92,Classics,Waffle Potato Fries: large,430,5,23,50,210,1.85
+91,Side,Side Salad,70,5,5,5,110,2.89
+92,Side,Waffle Potato Fries: large,430,5,23,50,210,1.85
