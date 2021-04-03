@@ -1,4 +1,4 @@
-Category,Items,Cost (USD),Calories,Protein (g),Total Fat (g),Total Carbs (g),Sugar (g),Sodium (g)
+Category,Items,Cost (USD),Calories,Protein (g),Fat (g),Carbs (g),Sugar (g),Sodium (g)
 Breakfast,"Bacon, Egg & Cheese Biscuit",3.09,500,21,27,43,8,1.37
 Breakfast,Biscuit,1.09,310,5,13,41,9,0.7
 Breakfast,Chicken Biscuit,2.69,440,17,20,47,8,1.24

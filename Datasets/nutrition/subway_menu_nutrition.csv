@@ -1,4 +1,4 @@
-Category,Items,Cost (USD),Calories,	Fat (g),	Carbs (g),	Sugar (g),	Protein (g),Sodium (g)
+Category,Items,Cost (USD),Calories,"	Fat (g)","	Carbs (g)","	Sugar (g)","	Protein (g)",Sodium (g)
 Sandwich,Black Forest Ham,4.99,260,4,42,8,18,0.72
 Sandwich,Chicken & Bacon Ranch Melt,6.29,530,26,41,6,36,1.1
 Sandwich,Classic Tuna,5.29,450,25,38,5,19,0.61

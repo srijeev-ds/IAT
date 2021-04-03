@@ -1,4 +1,4 @@
-Category,Items,Cost,Calories,Protein (g),Fat (g),Carbs (g),Sugar (g),Sodium (g)
+Category,Items,Cost (USD),Calories,Protein (g),Fat (g),Carbs (g),Sugar (g),Sodium (g)
 Sandwich,Whopper® Sandwich,4.19,660,28,40,49,11,0.98
 Sandwich,Double Whopper® Sandwich,5.29,900,48,58,49,11,1.05
 Sandwich,Triple Whopper® Sandwich,6.39,1130,67,75,49,11,1.12
