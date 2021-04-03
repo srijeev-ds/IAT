@@ -1,87 +1,66 @@
-Category,Name,Calories,Calories from Fat,Total Fat(g),Saturated Fat(g),Trans Fat(g),Cholesterol(mg),Sodium(mg),Total Carbohydrate(g),Dietary Fiber(g),Sugars(g),Protein(g),Portion
-Bakery,Chonga Bagel,300,45,5,2,0,10,530,50,3,5,12,113 g
-Bakery,8-Grain Roll,340,40,5,0.5,0,0,430,68,4,15,9,127 g
-Bakery,Almond Croissant,420,190,22,9,0.5,75,390,45,3,13,10,99 g
-Bakery,Banana Nut Bread,420,190,22,3,0,65,320,52,2,30,6,125 g
-Bakery,Birthday Cake Pop,170,80,9,5,0,10,110,23,0,18,1,43 g
-Bakery,Blueberry Muffin,360,130,15,3,0,50,270,52,1,33,5,110 g
-Bakery,Blueberry Oat Cake,390,110,12,1,0,0,430,71,7,33,7,128 g
-Bakery,Blueberry Scone,380,150,17,10,0,70,350,54,2,22,6,100 g
-Bakery,Butter Croissant,260,30,15,10,1,40,320,27,1,5,5,62 g
-Bakery,Cheese Danish,290,130,14,0,0.5,45,400,33,1,11,7,80 g
-Bakery,Chocolate Cake Pop,160,70,8,4.5,0,15,80,23,1,18,2,43 g
-Bakery,Chocolate Chip Cookie,360,100,18,11,0.5,60,220,47,2,31,6,80 g
-Bakery,Chocolate Chip Cookie Dough Cake Pop,180,80,9,5,0,10,80,23,0,12,2,38 g
-Bakery,Chocolate Croissant,340,180,20,12,0.5,50,280,38,2,13,5,80 g
-Bakery,Cinnamon Raisin Bagel,270,15,1,0,0,0,370,58,3,11,9,99 g
-Bakery,Classic Coffee Cake,330,140,15,8,0.5,70,270,43,1,21,4,109 g
-Bakery,Confetti Sugar Cookie,410,190,21,16,0.5,60,220,54,0,36,4,92 g
-Bakery,Double Chocolate Chunk Brownie,480,250,28,9,0,75,220,55,3,37,6,104 fl oz
-Bakery,Everybody's Favorite - Bantam Bagel (2 Pack),200,60,8,4,0,20,280,28,0,2,6,74 g
-Bakery,Everything Bagel,290,40,4,1,0,5,450,53,3,5,11,100 g
-Bakery,French Toast - Bantam Bagels (2 Pack),200,60,8,4,0,20,360,30,0,4,6,74 g
-Bakery,Frosted Doughnut Cake Pop,390,200,23,14,0,30,140,45,1,23,4,82 g
-Bakery,Gluten-Free Marshmallow Dream Bar,230,45,5,3.5,0,15,220,44,0,24,1,60 g
-Bakery,Iced Lemon Loaf Cake,470,180,20,9,0.5,100,310,68,1,42,6,126 g
-Bakery,Morning Bun,420,200,22,13,1,160,440,46,1,14,9,94 g
-Bakery,Old-Fashioned Glazed Doughnut,480,240,27,13,0,20,410,56,1,30,5,113 g
-Bakery,Petite Vanilla Bean Scone,120,40,4.5,2,0,15,95,18,0,8,2,33 g
-Bakery,Plain Bagel,280,15,1.5,0,0,0,620,56,2,2,9,108 g
-Bakery,Pumpkin Bread,410,140,15,2.5,0,55,500,63,2,39,6,123 g
-Bakery,Sprouted Grain Vegan Bagel,330,60,6,0.5,0,0,490,57,7,4,12,113 g
-Bakery,Strawberry Cake Pop,160,70,8,4,0,10,80,22,0,16,4,41 g
-Bakery,The Classic - Bantam Bagels (2 Pack),200,60,8,4,0,20,270,28,0,2,6,74 g
-Mercato,Cage-Free Eggs & Seasoned Grains Side Salad,360,160,18,4,0,370,460,33,3,4,17,163 g
-Mercato,Cauliflower Tabbouleh Side Salad,130,100,12,1.5,0,0,520,7,3,3,2,163 g
-Mercato,Chicken & Fig Spread,460,120,13,2.5,0,50,940,61,5,15,24,180 g
-Mercato,Chipotle Chicken Wrap,470,170,19,7,0,60,1050,55,4,6,22,249 g
-Mercato,Farmers' Market Protein Box,470,260,29,10,0,60,880,29,4,12,21,296 g
-Mercato,Garden Greens & Shaved Parmesan Side Salad,170,120,13,4,0,10,600,9,2,4,7,147 g
-Mercato,Grilled Chicken & Cauliflower Tabbouleh,390,240,27,5,0,50,1140,15,4,7,21,305 g
-Mercato,Honey BBQ Sriracha Chicken,370,0,8,1.5,0,45,1090,54,2,9,22,166 g
-Mercato,Roasted Carrot & Kale Side Salad,440,230,26,3,0,0,400,44,7,6,10,178 g
-Mercato,Roasted Turkey & Dill Havarti,580,280,31,9,0,65,860,46,5,4,32,198 g
-Mercato,Seasoned Turkey & Green Pepper Pico,390,160,18,6,0,130,900,30,5,8,28,319.7 g
-Mercato,Smoked Mozzarella & Roasted Peppers,540,250,28,9,0,60,1190,53,4,8,19,184 g
-Mercato,Smoked Pork Cubano,450,230,25,8,0,65,1200,66,5,3,21,154 g
-Mercato,Strawberry & Toasted Almonds Overnight Grains,410,220,24,18,0,0,35,42,5,16,7,198 g
-Mercato,Turkey Pastrami Reuben,500,190,21,7,0,65,1130,50,4,3,26,191 g
-Mercato,Za'atar Chicken & Lemon Tahini,430,190,21,3.5,0,50,880,42,4,16,21,354 g
-Protein Boxes,Chicken BLT Protein Box,580,210,23,3,0,80,1660,58,7,20,35,368 g
-Protein Boxes,Chicken Wrap Protein Box,690,280,31,10,0,65,1000,77,6,0,30,436 g
-Protein Boxes,Creminelli Sopressata Monterey Jack Snack Tray,220,140,17,8,0,65,720,0,0,0,15,62 g
-Protein Boxes,Eggs & Cheese Protein Box,470,230,25,7,0,385,540,40,5,21,23,250 fl oz
-Protein Boxes,Lentils & Vegetable Protein Bowl with Brown Rice,650,260,29,3.5,0,0,670,80,21,10,23,411 g
-Protein Boxes,PB&J Protein Box,520,230,26,7,0,25,570,54,4,30,20,210 fl oz
-Protein Boxes,Smoked Turkey Protein Box,570,210,23,10,0.5,90,1620,54,7,20,35,385 g
-Hot Breakfast,"Bacon, Gouda & Egg Breakfast Sandwich",370,160,18,7,0,170,780,33,1,2,18,116 g
-Hot Breakfast,Chicken Sausage & Bacon Biscuit,450,200,22,9,0,85,1160,35,1,8,26,132 g
-Hot Breakfast,Classic Oatmeal,160,25,2.5,0.5,0,0,125,28,4,0,5,42 g
-Hot Breakfast,"Double-Smoked Bacon, Cheddar & Egg Sandwich",520,260,29,14,0,205,1050,42,1,8,24,148 g
-Hot Breakfast,Ham & Cheese Croissant,320,150,17,9,0.5,65,490,28,1,5,14,102 g
-Hot Breakfast,Hearty Blueberry Oatmeal,220,25,2.5,0.5,0,0,125,43,5,13,5,90 g
-Hot Breakfast,Reduced-Fat Turkey Bacon & Cage Free Egg White Breakfast Sandwich,230,50,5,2,0,20,550,28,3,2,18,120 g
-Hot Breakfast,"Roasted Ham, Swiss & Egg Breakfast Sandwich",460,210,23,13,0,240,920,43,0,7,21,162 g
-Hot Breakfast,"Sausage, Cheddar & Egg Breakfast Sandwich",480,260,29,10,0,165,880,34,1,2,18,157 g
-Hot Breakfast,Smoked Shoulder Bacon Breakfast Sandwich,550,280,31,14,0,265,1170,39,2,4,26,193 g
-Hot Breakfast,Sous Vide Egg Bites: Bacon & Gruyere,300,180,20,12,0,215,680,9,0,2,19,130 g
-Hot Breakfast,Sous Vide Egg Bites: Chicken Chorizo Tortilla,230,120,13,7,0,210,690,13,0,2,15,130 g
-Hot Breakfast,Sous Vide Egg Bites: Egg White & Red Pepper,170,70,7,5,0,25,500,13,1,2,13,130 g
-Hot Breakfast,"Sous Vide Egg Bites: Ham, Cheddar & Peppers",250,140,16,10,0,175,460,11,0,1,17,130 g
-Hot Breakfast,"Spicy Chorizo, Monterey Jack & Egg Breakfast Sandwich",470,220,24,10,0,175,950,36,0,5,24,168 g
-Hot Breakfast,"Spinach, Feta & Cage Free Egg White Breakfast Wrap",280,70,8,3,0,20,830,34,4,5,20,159 g
-"Sandwiches, Paninis & Salads",Baja Black Bean Veggie Wrap,570,200,22,11,0,40,1300,73,7,5,21,288 g
-"Sandwiches, Paninis & Salads",Chicken & Double-Smoked Bacon,620,230,26,8,0,110,1460,65,3,11,31,201 g
-"Sandwiches, Paninis & Salads",Chicken Caprese,500,160,18,6,0,65,900,58,3,3,28,208 g
-"Sandwiches, Paninis & Salads",Crispy Grilled Cheese Sandwich,540,260,29,16,0.5,75,1060,47,4,1,21,143 g
-"Sandwiches, Paninis & Salads",Ham & Swiss Panini,490,220,24,10,0,80,1250,42,0,2,25,176 g
-"Sandwiches, Paninis & Salads",Tomato & Mozzarella,350,120,13,5,0,20,580,42,3,2,15,145 g
-"Sandwiches, Paninis & Salads",Turkey Pesto Panini,540,190,21,6,0,70,1190,55,3,3,33,201 g
-"Yogurt, Fruit & Spreads",Avocado Spread,90,70,8,1,0,0,210,5,4,0,1,57 g
-"Yogurt, Fruit & Spreads",Berry Trio Parfait,240,20,2.5,0,0,5,125,39,3,26,14,164 g
-"Yogurt, Fruit & Spreads",Fresh Blueberries and Honey Greek Yogurt Parfait,240,25,2.5,0,0,5,100,42,2,29,14,177 g
-"Yogurt, Fruit & Spreads",Justin's Chocolate Hazelnut Butter,180,130,14,2.5,0,0,65,12,3,7,4,32 g
-"Yogurt, Fruit & Spreads",Justin's Classic Almond Butter,190,160,18,2.5,0,0,0,6,3,1,7,32 g
-"Yogurt, Fruit & Spreads",Lemon Crunch Yogurt Parfait,330,110,12,6,0,65,90,42,1,29,14,162 g
-"Yogurt, Fruit & Spreads",Mango & Coconut Yogurt Bowl,250,50,6,4.5,0,5,60,34,3,26,16,209 g
-"Yogurt, Fruit & Spreads",Vegan Superberry Açaí,340,110,12,6,0,55,140,55,8,262,6,215 g
+Category,Item,Cost (USD),Calories,Fat (g),Carbs (g),Sugars (g),Protein (g),Sodium (g)
+Breakfast,Almond Croissant,3.25,420,22,45,13,10,0.39
+Dessert,Banana Nut Bread,2.29,420,22,52,30,6,0.32
+Dessert,Birthday Cake Slice,3.5,170,9,23,18,1,0.11
+Dessert,Blueberry Muffin,3.19,360,15,52,33,5,0.27
+Dessert,Blueberry Oat Cake,2.45,390,12,71,33,7,0.43
+Dessert,Blueberry Scone,2.45,380,17,54,22,6,0.35
+Breakfast,Butter Croissant,2.45,260,15,27,5,5,0.32
+Breakfast,Cheese Danish,2.45,290,14,33,11,7,0.4
+Dessert,Chocolate Cake Slice,3.5,160,8,23,18,2,0.08
+Dessert,Chocolate Chip Cookie,1.95,360,18,47,31,6,0.22
+Dessert,Chocolate Croissant,3.25,340,20,38,13,5,0.28
+Dessert,Cinnamon Raisin Bagel,3,270,1,58,11,9,0.37
+Dessert,Classic Coffee Cake,3.5,330,15,43,21,4,0.27
+Dessert,Confetti Sugar Cookie,1.95,410,21,54,36,4,0.22
+Dessert,Double Chocolate Chunk Brownie,2.35,480,28,55,37,6,0.22
+Sandwich,Everybody's Favorite - Bantam Bagel (2 Pack),2.95,200,8,28,2,6,0.28
+Sandwich,Everything Bagel,2.25,290,4,53,5,11,0.45
+Sandwich,French Toast - Bantam Bagels (2 Pack),3.75,200,8,30,4,6,0.36
+Dessert,Gluten-Free Marshmallow Dream Bar,3,230,5,44,24,1,0.22
+Dessert,Iced Lemon Loaf Cake,2.45,470,20,68,42,6,0.31
+Dessert,Old-Fashioned Glazed Doughnut,1.95,480,27,56,30,5,0.41
+Dessert,Petite Vanilla Bean Scone,2.25,120,4.5,18,8,2,0.095
+Sandwich,Plain Bagel,1.99,280,1.5,56,2,9,0.62
+Dessert,Pumpkin Bread,2.45,410,15,63,39,6,0.5
+Sandwich,Sprouted Grain Vegan Bagel,2.45,330,6,57,4,12,0.49
+Breakfast,Strawberry Cake Pop,2.45,160,8,22,16,4,0.08
+Salad,Cage-Free Eggs & Seasoned Grains Side Salad,8.95,360,18,33,4,17,0.46
+Salad,Cauliflower Tabbouleh Side Salad,8.95,130,12,7,3,2,0.52
+Salad,Chicken & Fig Spread,8.95,460,13,61,15,24,0.94
+Sandwich,Chipotle Chicken Wrap,5.95,470,19,55,6,22,1.05
+Salad,Farmers' Market Protein Box,5.25,470,29,29,12,21,0.88
+Salad,Garden Greens & Shaved Parmesan Side Salad,4.95,170,13,9,4,7,0.6
+Salad,Grilled Chicken & Cauliflower Tabbouleh,5.95,390,27,15,7,21,1.14
+Salad,Honey BBQ Sriracha Chicken,5.25,370,8,54,9,22,1.09
+Salad,Roasted Carrot & Kale Side Salad,4.95,440,26,44,6,10,0.4
+Salad,Roasted Turkey & Dill Havarti,7.45,580,31,46,4,32,0.86
+Salad,Seasoned Turkey & Green Pepper Pico,7.99,390,18,30,8,28,0.9
+Salad,Smoked Mozzarella & Roasted Peppers,6.99,540,28,53,8,19,1.19
+Salad,Smoked Pork Cubano,6.95,450,25,66,3,21,1.2
+Salad,Turkey Pastrami Reuben,5.75,500,21,50,3,26,1.13
+Salad,Chicken BLT Protein Box,5.75,580,23,58,20,35,1.66
+Salad,Chicken Wrap Protein Box,5.25,690,31,77,0,30,1
+Salad,Eggs & Cheese Protein Box,5.25,470,25,40,21,23,0.54
+Salad,PB&J Protein Box,5.25,520,26,54,30,20,0.57
+Salad,Smoked Turkey Protein Box,5.75,570,23,54,20,35,1.62
+Breakfast,"Bacon, Gouda & Egg Breakfast Sandwich",3.75,370,18,33,2,18,0.78
+Breakfast,Classic Oatmeal,3.45,160,2.5,28,0,5,0.125
+Breakfast,"Double-Smoked Bacon, Cheddar & Egg Sandwich",4.25,520,29,42,8,24,1.05
+Breakfast,Ham & Cheese Croissant,3.45,320,17,28,5,14,0.49
+Breakfast,Hearty Blueberry Oatmeal,3.99,220,2.5,43,13,5,0.125
+Breakfast,Reduced-Fat Turkey Bacon & Cage Free Egg White Breakfast Sandwich,3.75,230,5,28,2,18,0.55
+Breakfast,"Roasted Ham, Swiss & Egg Breakfast Sandwich",3.75,460,23,43,7,21,0.92
+Breakfast,"Sausage, Cheddar & Egg Breakfast Sandwich",3.45,480,29,34,2,18,0.88
+Sandwich,Chicken & Double-Smoked Bacon,5.95,620,26,65,11,31,1.46
+Sandwich,Chicken Caprese,5.95,500,18,58,3,28,0.9
+Sandwich,Crispy Grilled Cheese Sandwich,5.95,540,29,47,1,21,1.06
+Sandwich,Ham & Swiss Panini,5.95,490,24,42,2,25,1.25
+Sandwich,Tomato & Mozzarella,4.99,350,13,42,2,15,0.58
+Sandwich,Turkey Pesto Panini,6.45,540,21,55,3,33,1.19
+Dessert,Berry Trio Parfait,3.45,240,2.5,39,26,14,0.125
+Dessert,Fresh Blueberries and Honey Greek Yogurt Parfait,3.45,240,2.5,42,29,14,0.1
+Dessert,Justin's Chocolate Hazelnut Butter,2.75,180,14,12,7,4,0.065
+Dessert,Justin's Classic Almond Butter,2.75,190,18,6,1,7,0
+Dessert,Lemon Crunch Yogurt Parfait,3.45,330,12,42,29,14,0.09
+Dessert,Mango & Coconut Yogurt Bowl,3.45,250,6,34,26,16,0.06
