@@ -1,0 +1,399 @@
+Restaurant,Category,Items,Cost (USD),Calories,Protein (g),Fat (g),Carbs (g),Sugar (g),Sodium (g)
+burgerking,Breakfast,"Bacon, Egg & Cheese Biscuit - BK",2.99,400,13,26,29,3,1.27
+burgerking,Breakfast,Breakfast Burrito Jr. - BK,1,370,15,23,27,2,0.93
+burgerking,Breakfast,"CROISSAN’WICH® Bacon, Egg & Cheese ",2.99,370,14,21,30,4,0.76
+burgerking,Breakfast,CROISSAN’WICH® Egg & Cheese,2.99,340,12,18,29,4,0.61
+burgerking,Breakfast,"CROISSAN’WICH® Ham, Egg & Cheese",2.99,370,17,19,30,5,1.03
+burgerking,Breakfast,"CROISSAN’WICH® Sausage, Egg & Cheese",2.99,500,19,33,30,4,0.93
+burgerking,Breakfast,French Toast Sticks (3 piece) - BK,1,230,3,11,29,8,0.26
+burgerking,Breakfast,"Ham, Egg, & Cheese Biscuit - BK",2.99,400,17,24,29,3,1.55
+burgerking,Breakfast,Hash Browns – medium,1.69,500,4,33,48,0,1.14
+burgerking,Breakfast,Pancake and Sausage platter,3.69,610,12,31,72,30,1.01
+burgerking,Breakfast,Sausage Biscuit - BK,1,420,12,28,28,2,1.05
+burgerking,Breakfast,"Sausage, Egg, & Cheese Biscuit",2.99,530,19,38,29,3,1.44
+burgerking,Breakfast,French Toast Sticks (5 piece),1.99,380,5,18,49,13,0.43
+burgerking,Dessert,Soft Serve Cone,1.00,190,5,4.5,32,24,0.15
+burgerking,Dessert,Soft Serve Cup,1.00,170,5,4.5,28,24,0.15
+burgerking,Dessert,Sundae,1.59,260,5,5,49,43,0.16
+burgerking,Drink,Barq’s® Root Beer - 20 fl oz,2.09,300,0,0,81,81,0.12
+burgerking,Drink,BK® Café Caramel Frappe- 16 fl oz,2.89,400,9,10,68,56,0.28
+burgerking,Drink,BK® Café Coffee- 16 fl oz,2.09,0,0,0,0,0,0
+burgerking,Drink,BK® Café Decaf Coffee- 16 fl oz,1.79,0,0,0,0,0,0
+burgerking,Drink,BK® Café Iced Mocha Coffee- 16 fl oz,2.89,240,2,10,35,32,0.055
+burgerking,Drink,BK® Café Iced Vanilla Coffee- 16 fl oz,2.89,200,2,10,27,27,0.04
+burgerking,Drink,BK® Café Mocha Frappe- 16 fl oz,2.89,400,9,10,68,58,0.27
+burgerking,Drink,Capri Sun® 100% Apple Juice,1.29,80,0,0,20,20,0.025
+burgerking,Drink,Cherry Coke® - 20 fl oz,2.09,280,0,0,76,76,0.07
+burgerking,Drink,Coca Cola classic® - 20 fl oz,2.09,270,0,0,73,73,0.06
+burgerking,Drink,Diet Coke® - 20 fl oz,2.09,0,0,0,0,0,0.085
+burgerking,Drink,Dr. Pepper® - 20 fl oz,2.09,240,0,0,65,64,0.075
+burgerking,Drink,Fanta® Orange - 20 fl oz,2.09,280,0,0,78,77,0.07
+burgerking,Drink,Hi-C® Fruit Punch - 20 fl oz,2.09,280,0,0,77,75,0.095
+burgerking,Drink,MINUTE MAID® Light Lemonade - 20 fl oz,2.09,10,0,0,4,0,0.07
+burgerking,Drink,Minute Maid® Orange Juice,1.69,140,2,0,33,30,0.02
+burgerking,Drink,Sprite® - 20 fl oz,2.09,260,0,0,70,70,0.12
+burgerking,Drink,Sweet Tea - 20 fl oz,2.09,160,0,0,49,49,0
+burgerking,Salad,Club Salad with Crispy Chicken – no dressing,7.09,540,31,33,31,5,1.38
+burgerking,Salad,Garden Chicken Salad with Crispy Chicken – no dressing,7.09,440,25,25,31,4,0.93
+burgerking,Salad,Garden Side Salad – w/o dressing,5.59,60,4,4,3,2,0.095
+burgerking,Sandwich,Bacon & Cheese Crispy Chicken Sandwich,6.09,800,30,52,55,8,1.65
+burgerking,Sandwich,Bacon Cheeseburger® Sandwich,1.49,320,17,16,27,7,0.71
+burgerking,Sandwich,Bacon Double Cheeseburger,2.09,420,25,24,27,7,0.74
+burgerking,Sandwich,Bacon King Sandwich,6.99,1150,61,79,49,10,2.15
+burgerking,Sandwich,BBQ Bacon Crispy Chicken Sandwich,6.09,790,28,49,60,13,1.63
+burgerking,Sandwich,Cheeseburger® Sandwich,1.00,280,15,13,27,7,0.56
+burgerking,Sandwich,Chicken Nuggets- 4pc,1.29,170,8,11,11,0,0.31
+burgerking,Sandwich,Chicken Nuggets- 8pc,1.00,260,12,16,16,0,0.47
+burgerking,Sandwich,Crispy Chicken Jr.,1.19,450,12,30,34,5,0.78
+burgerking,Sandwich,Crispy Chicken Sandwich,4.99,670,23,41,54,8,1.08
+burgerking,Sandwich,Double Cheeseburger® Sandwich,1.69,390,23,21,27,7,0.59
+burgerking,Sandwich,Double Whopper® Sandwich,5.29,900,48,58,49,11,1.05
+burgerking,Sandwich,Hamburger® Sandwich,1.00,240,13,10,26,6,0.38
+burgerking,Sandwich,IMPOSSIBLE Whopper® Sandwich,5.49,630,25,34,58,12,1.08
+burgerking,Sandwich,Original Chicken Sandwich,4.49,660,28,40,48,5,1.17
+burgerking,Sandwich,Spicy Crispy Chicken Jr.,1.19,390,12,21,37,6,0.74
+burgerking,Sandwich,Spicy Crispy Chicken Sandwich,5.69,700,25,42,57,8,1.14
+burgerking,Sandwich,Triple Whopper® Sandwich,6.39,1130,67,75,49,11,1.12
+burgerking,Sandwich,Whopper JR.® Sandwich,2.19,310,13,18,27,7,0.39
+burgerking,Sandwich,Whopper® Sandwich,4.19,660,28,40,49,11,0.98
+burgerking,Side,French Fries – medium,2.19,380,4,16,58,1,0.36
+burgerking,Side,Onion Rings – medium,2.19,410,4,21,53,5,1.08
+chick-fil-a,Breakfast,"Bacon, Egg & Cheese Biscuit",3.09,500,21,27,43,8,1.37
+chick-fil-a,Breakfast,Biscuit,1.09,310,5,13,41,9,0.7
+chick-fil-a,Breakfast,Chicken Biscuit,2.69,440,17,20,47,8,1.24
+chick-fil-a,Breakfast,Chicken Breakfast Burrito,3.95,450,24,20,43,11,0.99
+chick-fil-a,Breakfast,"Chicken, Egg & Cheese Bagel",3.99,480,29,20,49,12,1.23
+chick-fil-a,Breakfast,Sausage Biscuit - CFA,2.69,590,16,41,42,9,1.25
+chick-fil-a,Breakfast,Sausage Breakfast Burrito,3.55,510,23,29,40,11,0.97
+chick-fil-a,Breakfast,Yogurt Parfait,2.45,230,6,3,44,15,0.06
+chick-fil-a,Breakfast,Yogurt Parfait with Chocolate Cookie Crumbs,2.95,240,7,5,47,23,0.075
+chick-fil-a,Breakfast,Yogurt Parfait with Granola,2.95,290,7,5,54,21,0.07
+chick-fil-a,Dessert,Chocolate Milkshake:Large,3.15,750,16,28,113,90,0.52
+chick-fil-a,Dessert,Cookie & Cream Milkshake:Large,3.15,700,17,33,100,92,0.55
+chick-fil-a,Dessert,Icecream:cone,1.65,170,5,4,31,31,0.115
+chick-fil-a,Dessert,Peach Milkshake: Large,3.15,850,15,21,153,28,0.54
+chick-fil-a,Dessert,Straw berry Milkshake: Large,3.15,770,16,28,118,28,0.53
+chick-fil-a,Dessert,Vanilla Milkshake: Large,3.15,660,16,27,91,90,0.51
+chick-fil-a,Drink,100% Colombian Coffee: Large,2.35,5,1,0,0,67,0.01
+chick-fil-a,Drink,Chocolate Milk,1.19,160,6,2,21,54,0.19
+chick-fil-a,Drink,Coca-Cola: Large,1.85,250,0,0,69,102,0.025
+chick-fil-a,Drink,Dasani Bottled Water,1.59,0,0,0,0,2,0
+chick-fil-a,Drink,Diet Coke: Large,1.85,5,0,0,0,6,0.01
+chick-fil-a,Drink,Diet Lemonade: Large,1.85,30,0,0,11,6,0.015
+chick-fil-a,Drink,Dr. Pepper: Larger,1.85,260,0,0,70,126,0.09
+chick-fil-a,Drink,Iced Tea- Sweetened: Large,1.85,220,0,0,57,157,0.015
+chick-fil-a,Drink,Iced Tea- Unsweetened: Large,1.85,0,0,0,0,120,0.02
+chick-fil-a,Drink,Lemonade: Large,1.98,350,0,0,92,90,0.015
+chick-fil-a,Drink,Milk,1.19,110,7,4,12,52,0.115
+chick-fil-a,Drink,Minute Maid Apple Juice Box,1.09,100,0,0,23,70,0.015
+chick-fil-a,Drink,Orange Juice,2.15,140,2,0,33,65,0
+chick-fil-a,Salad,Chargrilled & Fruit Salad,8.19,230,22,6,23,15,0.65
+chick-fil-a,Salad,Chargrilled Chicken Garden Salad,8.19,180,22,6,11,6,0.65
+chick-fil-a,Salad,Chick-n-Strip Salad,8.19,470,41,23,27,8,1.34
+chick-fil-a,Salad,Chicken Salad Cup,5.15,350,27,24,6,4,1.1
+chick-fil-a,Salad,Fruit Cup: large,4.25,100,1,0,27,10,0
+chick-fil-a,Salad,Garlic and Butter Croutons,6.19,60,1,2,9,15,0.15
+chick-fil-a,Salad,Hearty Breast of Chicken Soup: large,8.35,220,12,6,30,5,1.76
+chick-fil-a,Salad,Southwest Chargrilled Salad,8.19,240,26,9,18,7,0.82
+chick-fil-a,Sandwich,Chargrilled Chicken Club Sandwich,5.59,410,37,12,39,16,1.46
+chick-fil-a,Sandwich,Chargrilled Chicken Cool Wrap,5.19,410,33,12,50,8,1.3
+chick-fil-a,Sandwich,Chargrilled Chicken Sandwich,5.59,300,29,4,38,17,1.12
+chick-fil-a,Sandwich,Chicken Caesar Cool Wrap,5.19,460,39,15,47,10,1.52
+chick-fil-a,Sandwich,Chicken Deluxe Sandwich,3.65,500,35,21,43,18,1.63
+chick-fil-a,Sandwich,Chicken Salad Sandwich,3.99,500,29,20,52,14,1.24
+chick-fil-a,Sandwich,Chicken Sandwich,3.05,430,31,17,39,14,1.37
+chick-fil-a,Sandwich,Spicy Chicken Cool Wrap,5.19,410,35,12,48,13,1.38
+chick-fil-a,Sandwich,Spicy Chicken Deluxe Sandwich,3.89,580,36,27,48,13,1.88
+chick-fil-a,Sandwich,Spicy Chicken Sandwich,3.29,490,31,20,46,58,1.73
+chick-fil-a,Side,Chick-n-Strips: 4 count,4.39,500,47,24,24,21,1.63
+chick-fil-a,Side,Nuggets: 12-count,4.45,400,42,17,18,19,1.48
+chick-fil-a,Side,Side Salad,2.89,70,5,5,5,3,0.11
+chick-fil-a,Side,Waffle Potato Fries: large,1.85,430,5,23,50,7,0.21
+mcdonalds,Drink,1% Low Fat Milk Jug,1.00,100,8,2.5,12,12,0.125
+mcdonalds,Side,Apple Slices,1.00,15,0,0,4,3,0
+mcdonalds,Sandwich,Bacon Clubhouse Burger,4.49,720,39,40,51,14,1.47
+mcdonalds,Sandwich,Bacon Clubhouse Crispy Chicken Sandwich,4.49,750,36,38,65,16,1.72
+mcdonalds,Sandwich,Bacon Clubhouse Grilled Chicken Sandwich,4.49,590,40,25,51,14,1.56
+mcdonalds,Breakfast,"Bacon, Egg & Cheese Bagel",2.79,620,30,31,57,7,1.48
+mcdonalds,Breakfast,"Bacon, Egg & Cheese Biscuit - McD",3.19,460,19,26,38,3,1.3
+mcdonalds,Breakfast,"Bacon, Egg & Cheese McGriddles",2.79,460,19,21,48,15,1.25
+mcdonalds,Dessert,Baked Apple Pie,1.00,250,2,13,32,13,0.17
+mcdonalds,Breakfast,Big Breakfast (Regular Biscuit),3.69,740,28,48,51,3,1.56
+mcdonalds,Breakfast,Big Breakfast with Egg Whites (Regular Biscuit),5.49,640,26,37,50,3,1.59
+mcdonalds,Breakfast,Big Breakfast with Hotcakes (Regular Biscuit),5.49,1090,36,56,111,17,2.15
+mcdonalds,Sandwich,Big Mac,3.99,530,24,27,47,9,0.96
+mcdonalds,Drink,Blueberry Pomegranate Smoothie (Medium),2.89,260,3,1,62,54,0.05
+mcdonalds,Drink,Caramel Iced Coffee (Medium),1.79,180,1,7,29,28,0.05
+mcdonalds,Drink,Caramel Latte (Medium),1.79,340,11,10,50,48,0.14
+mcdonalds,Sandwich,Cheeseburger,1.00,290,15,11,33,7,0.68
+mcdonalds,Sandwich,Chicken McNuggets (10 piece),4.49,470,22,30,30,0,0.9
+mcdonalds,Sandwich,Chicken McNuggets (20 piece),5.00,940,44,59,59,0,1.8
+mcdonalds,Sandwich,Chicken McNuggets (40 piece),8.99,1880,87,118,118,1,3.6
+mcdonalds,Dessert,Chocolate Chip Cookie - MCD,0.39,160,2,8,21,15,0.09
+mcdonalds,Drink,Chocolate Shake (Medium),2.59,700,15,20,114,97,0.3
+mcdonalds,Drink,Coca-Cola Classic (Medium),1.29,200,0,0,55,55,0.005
+mcdonalds,Drink,Coffee (Medium),1.29,0,0,0,0,0,0
+mcdonalds,Drink,Dasani Water Bottle,1.00,0,0,0,0,0,0
+mcdonalds,Drink,Diet Coke (Medium),1.29,0,0,0,0,0,0.02
+mcdonalds,Drink,Diet Dr Pepper (Medium),1.29,0,3,0,0,0,0.1
+mcdonalds,Sandwich,Double Cheeseburger,2.00,430,24,21,35,7,1.04
+mcdonalds,Sandwich,Double Quarter Pounder with Cheese,4.79,750,48,43,42,10,1.28
+mcdonalds,Drink,Dr Pepper (Medium),1.29,190,0,0,53,51,0.065
+mcdonalds,Breakfast,Egg McMuffin,2.79,300,17,13,31,3,0.75
+mcdonalds,Breakfast,Egg White Delight,2.79,250,18,8,30,3,0.77
+mcdonalds,Drink,Fat Free Chocolate Milk Jug,1.49,130,9,0,23,22,0.135
+mcdonalds,Sandwich,Filet-O-Fish,3.79,390,15,19,39,5,0.59
+mcdonalds,Drink,Frappé Caramel (Medium),1.79,550,9,23,79,71,0.16
+mcdonalds,Drink,Frappé Mocha (Medium),1.79,550,9,22,80,71,0.16
+mcdonalds,Drink,French Vanilla Iced Coffee (Medium),1.79,170,1,7,27,26,0.055
+mcdonalds,Drink,French Vanilla Latte (Medium),1.79,330,11,10,48,45,0.14
+mcdonalds,Sandwich,Hamburger,0.89,240,12,8,32,6,0.48
+mcdonalds,Drink,Hazelnut Iced Coffee (Medium),1.79,180,1,7,29,28,0.05
+mcdonalds,Drink,Hazelnut Latte (Medium),1.79,330,11,10,50,47,0.14
+mcdonalds,Dessert,Hot Caramel Sundae,1.29,340,7,8,60,43,0.15
+mcdonalds,Dessert,Hot Fudge Sundae,1.29,330,8,9,53,48,0.17
+mcdonalds,Breakfast,Hotcakes,2.49,350,8,9,60,14,0.59
+mcdonalds,Breakfast,Hotcakes and Sausage,3.19,520,15,24,61,14,0.93
+mcdonalds,Drink,Iced Caramel Mocha (Medium),1.79,340,9,13,46,41,0.17
+mcdonalds,Drink,Iced Mocha (Medium),1.79,350,9,13,50,43,0.15
+mcdonalds,Drink,Iced Tea (Medium),1.29,0,0,0,0,0,0.01
+mcdonalds,Drink,Latte (Medium),1.79,210,11,10,18,15,0.14
+mcdonalds,Drink,Mango Pineapple Smoothie (Medium),2.89,260,3,1,61,56,0.045
+mcdonalds,Sandwich,McChicken,1.75,360,14,16,40,5,0.8
+mcdonalds,Sandwich,McDouble,1.19,380,22,17,34,7,0.84
+mcdonalds,Drink,McFlurry with M&M’s Candies (Medium),2.39,930,20,33,139,128,0.26
+mcdonalds,Drink,McFlurry with Oreo Cookies (Medium),2.39,690,15,23,106,85,0.38
+mcdonalds,Drink,McFlurry with Reese's Peanut Butter Cups (Medium),1.79,810,21,32,114,103,0.4
+mcdonalds,Sandwich,McRib,3.69,500,22,26,44,11,0.98
+mcdonalds,Side,Medium French Fries,1.79,340,4,16,44,0,0.19
+mcdonalds,Drink,Minute Maid 100% Apple Juice Box,1.29,80,0,0,21,19,0.015
+mcdonalds,Drink,Minute Maid Orange Juice (Medium),1.29,190,3,0,44,39,0
+mcdonalds,Drink,Mocha (Medium),1.79,410,13,14,60,53,0.19
+mcdonalds,Dessert,Oatmeal Raisin Cookie - MCD,0.39,150,2,6,22,13,0.135
+mcdonalds,Salad,Premium Bacon Ranch Salad (without Chicken),4.59,140,9,7,10,4,0.3
+mcdonalds,Sandwich,Premium McWrap Chicken & Bacon (Crispy Chicken),4.39,630,32,32,56,7,1.54
+mcdonalds,Sandwich,Premium McWrap Chicken & Bacon (Grilled Chicken),4.39,480,36,19,42,6,1.37
+mcdonalds,Sandwich,Premium McWrap Chicken & Ranch (Crispy Chicken),4.39,610,27,31,56,8,1.34
+mcdonalds,Sandwich,Premium McWrap Chicken & Ranch (Grilled Chicken),4.39,450,30,18,42,6,1.17
+mcdonalds,Sandwich,Premium McWrap Southwest Chicken (Crispy Chicken),4.39,670,27,33,68,12,1.48
+mcdonalds,Sandwich,Premium McWrap Southwest Chicken (Grilled Chicken),4.39,520,31,20,55,10,1.32
+mcdonalds,Salad,Premium Southwest Salad (without Chicken),4.79,140,6,4.5,20,6,0.15
+mcdonalds,Sandwich,Quarter Pounder with Cheese,3.79,520,30,26,41,10,1.1
+mcdonalds,Drink,Regular Iced Coffee (Medium),1.79,190,1,7,31,30,0.05
+mcdonalds,Breakfast,Sausage Biscuit (Regular Biscuit),2.79,430,11,27,34,2,1.08
+mcdonalds,Breakfast,Sausage Biscuit with Egg (Regular Biscuit),2.99,510,18,33,36,2,1.17
+mcdonalds,Breakfast,Sausage Burrito,2.39,300,12,16,26,2,0.79
+mcdonalds,Breakfast,Sausage McGriddles,2.79,420,11,22,44,15,1.03
+mcdonalds,Breakfast,Sausage McMuffin,2.79,370,14,23,29,2,0.78
+mcdonalds,Breakfast,Sausage McMuffin with Egg,2.99,450,21,28,30,2,0.86
+mcdonalds,Breakfast,"Sausage, Egg & Cheese McGriddles",2.79,550,20,31,48,15,1.32
+mcdonalds,Drink,Shamrock Shake (Medium),2.59,660,14,19,109,93,0.21
+mcdonalds,Breakfast,Southern Style Chicken Biscuit (Regular Biscuit),2.99,410,17,20,41,3,1.18
+mcdonalds,Drink,Sprite (Medium),1.29,200,0,0,54,54,0.045
+mcdonalds,Breakfast,Steak & Egg McMuffin,3.99,430,26,23,31,3,0.96
+mcdonalds,Breakfast,"Steak, Egg & Cheese Bagel",3.29,670,33,35,56,7,1.51
+mcdonalds,Drink,Strawberry Banana Smoothie (Medium),2.89,250,4,1,58,54,0.06
+mcdonalds,Drink,Strawberry Shake (Medium),2.59,690,15,20,114,100,0.21
+mcdonalds,Dessert,Strawberry Sundae,1.29,280,6,6,49,45,0.085
+mcdonalds,Drink,Sweet Tea (Medium),1.29,180,1,0,45,45,0.01
+mcdonalds,Drink,Vanilla Shake (Medium),2.59,660,14,19,109,81,0.2
+starbucks,Breakfast,Almond Croissant,3.25,420,22,45,13,10,0.39
+starbucks,Breakfast,"Bacon, Gouda & Egg Breakfast Sandwich",3.75,370,18,33,2,18,0.78
+starbucks,Breakfast,Butter Croissant,2.45,260,15,27,5,5,0.32
+starbucks,Breakfast,Cheese Danish,2.45,290,14,33,11,7,0.4
+starbucks,Breakfast,Classic Oatmeal,3.45,160,2.5,28,0,5,0.125
+starbucks,Breakfast,"Double-Smoked Bacon, Cheddar & Egg Sandwich",4.25,520,29,42,8,24,1.05
+starbucks,Breakfast,Ham & Cheese Croissant,3.45,320,17,28,5,14,0.49
+starbucks,Breakfast,Hearty Blueberry Oatmeal,3.99,220,2.5,43,13,5,0.125
+starbucks,Breakfast,Reduced-Fat Turkey Bacon & Cage Free Egg White Breakfast Sandwich,3.75,230,5,28,2,18,0.55
+starbucks,Breakfast,"Roasted Ham, Swiss & Egg Breakfast Sandwich",3.75,460,23,43,7,21,0.92
+starbucks,Breakfast,"Sausage, Cheddar & Egg Breakfast Sandwich",3.45,480,29,34,2,18,0.88
+starbucks,Breakfast,Strawberry Cake Pop,2.45,160,8,22,16,4,0.08
+starbucks,Dessert,Banana Nut Bread,2.29,420,22,52,30,6,0.32
+starbucks,Dessert,Berry Trio Parfait,3.45,240,2.5,39,26,14,0.125
+starbucks,Dessert,Birthday Cake Slice,3.5,170,9,23,18,1,0.11
+starbucks,Dessert,Blueberry Muffin,3.19,360,15,52,33,5,0.27
+starbucks,Dessert,Blueberry Oat Cake,2.45,390,12,71,33,7,0.43
+starbucks,Dessert,Blueberry Scone,2.45,380,17,54,22,6,0.35
+starbucks,Dessert,Chocolate Cake Slice,3.5,160,8,23,18,2,0.08
+starbucks,Dessert,Chocolate Chip Cookie - SB,1.95,360,18,47,31,6,0.22
+starbucks,Dessert,Chocolate Croissant,3.25,340,20,38,13,5,0.28
+starbucks,Dessert,Cinnamon Raisin Bagel,3,270,1,58,11,9,0.37
+starbucks,Dessert,Classic Coffee Cake,3.5,330,15,43,21,4,0.27
+starbucks,Dessert,Confetti Sugar Cookie,1.95,410,21,54,36,4,0.22
+starbucks,Dessert,Double Chocolate Chunk Brownie,2.35,480,28,55,37,6,0.22
+starbucks,Dessert,Fresh Blueberries and Honey Greek Yogurt Parfait,3.45,240,2.5,42,29,14,0.1
+starbucks,Dessert,Gluten-Free Marshmallow Dream Bar,3,230,5,44,24,1,0.22
+starbucks,Dessert,Iced Lemon Loaf Cake,2.45,470,20,68,42,6,0.31
+starbucks,Dessert,Justin's Chocolate Hazelnut Butter,2.75,180,14,12,7,4,0.065
+starbucks,Dessert,Justin's Classic Almond Butter,2.75,190,18,6,1,7,0
+starbucks,Dessert,Lemon Crunch Yogurt Parfait,3.45,330,12,42,29,14,0.09
+starbucks,Dessert,Mango & Coconut Yogurt Bowl,3.45,250,6,34,26,16,0.06
+starbucks,Dessert,Old-Fashioned Glazed Doughnut,1.95,480,27,56,30,5,0.41
+starbucks,Dessert,Petite Vanilla Bean Scone,2.25,120,4.5,18,8,2,0.095
+starbucks,Dessert,Pumpkin Bread,2.45,410,15,63,39,6,0.5
+starbucks,Drink,Blonde Roast,2.1,5,0,0,0,1,0.01
+starbucks,Drink,Caffè Vanilla Frappuccino® Blended Coffee,4.45,310,2,69,68,4,0.23
+starbucks,Drink,Caramel Frappuccino® Blended Coffee,4.45,270,2,60,60,4,0.23
+starbucks,Drink,Chai Crème Frappuccino® Blended Crème,4.25,230,2.5,49,48,4,0.22
+starbucks,Drink,Chai Tea Latte,3.25,240,3.5,47,43,6,0.09
+starbucks,Drink,Cinnamon Dolce Crème,4.25,280,7,42,40,12,0.17
+starbucks,Drink,Citrus Defender,3.25,160,0,39,35,0,0.02
+starbucks,Drink,Coffee Frappuccino® Blended Coffee,3.95,230,2,50,50,3,0.22
+starbucks,Drink,Comfort Wellness Brewed Tea,3.25,0,0,0,0,0,0
+starbucks,Drink,Defense Wellness Brewed Tea,3.25,10,0,3,2,0,0.005
+starbucks,Drink,Double Chocolaty Chip Crème Frappuccino® Blended Crème,5.49,290,7,53,49,6,0.26
+starbucks,Drink,Emperor's Cloud and Mist® Green Tea,3.25,0,0,0,0,0,0
+starbucks,Drink,Espresso Frappuccino® Blended Coffee,4.45,220,1.5,50,48,3,0.21
+starbucks,Drink,Featured Dark Roast,2.1,5,0,0,0,1,0.01
+starbucks,Drink,Honey Citrus Mint Tea,3.25,140,0,36,33,0,0
+starbucks,Drink,Hot Chocolate,3.25,320,9,47,41,14,0.16
+starbucks,Drink,Iced Blueberry Black Tea,3.25,100,0,24,21,0,0.015
+starbucks,Drink,Iced Blueberry Black Tea Lemonade,3.25,120,0,30,27,0,0.015
+starbucks,Drink,Iced Chai Tea Latte,3.25,240,4,44,42,7,0.11
+starbucks,Drink,Iced Coffee,2.65,80,0,20,20,0,0.01
+starbucks,Drink,Iced Coffee with Milk,2.65,110,1.5,23,23,2,0.04
+starbucks,Drink,Iced Guava White Tea,3.25,110,0,27,23,0,0.02
+starbucks,Drink,Iced Guava White Tea Lemonade,3.25,130,0,33,29,0,0.02
+starbucks,Drink,Iced Matcha Green Tea Latte,3.25,200,4,33,29,8,0.1
+starbucks,Drink,Iced Peach Green Tea,3.25,100,0,25,23,0,0.02
+starbucks,Drink,Iced Peach Green Tea Lemonade,3.25,130,0,31,29,0,0.02
+starbucks,Drink,Iced Starbucks® Blonde Caffè Latte,4.55,130,4.5,13,11,8,0.115
+starbucks,Drink,Iced Starbucks® Blonde Caramel Cloud Macchiato,4.45,170,4,28,24,5,0.115
+starbucks,Drink,Iced Starbucks® Blonde Cocoa Cloud Macchiato,4.45,180,4.5,30,25,6,0.14
+starbucks,Drink,Iced Starbucks® Blonde Flat White,4.55,130,4.5,13,11,8,0.12
+starbucks,Drink,Iced Starbucks® Blonde Vanilla Latte,4.55,180,4.5,27,25,8,0.11
+starbucks,Drink,Iced Teavana® London Fog Tea Latte,3.25,140,2.5,25,25,4,0.07
+starbucks,Drink,Iced Vanilla Bean Coconutmilk Latte,4.55,180,5,26,25,9,0.125
+starbucks,Drink,Iced White Chocolate Mocha,4.45,300,8,47,46,10,0.19
+starbucks,Drink,Jade Citrus Mint Green Tea,3.25,0,0,0,0,0,0
+starbucks,Drink,Jade Citrus Mint™ Brewed Tea,3.25,0,0,0,0,0,0
+starbucks,Drink,Java Chip Frappuccino® Blended Coffee,4.45,340,6,68,63,5,0.26
+starbucks,Drink,Latte Macchiato,4.45,190,7,19,17,12,0.16
+starbucks,Drink,Matcha Green Tea Crème Frappuccino® Blended Crème,4.45,300,3,64,63,5,0.23
+starbucks,Drink,Matcha Green Tea Latte,3.25,240,7,34,32,12,0.16
+starbucks,Drink,Matcha Lemonade,3.25,120,0,29,27,1,0.01
+starbucks,Drink,Mint Majesty™ Herbal Tea,3.25,0,0,0,0,0,0
+starbucks,Drink,Mocha Frappuccino® Blended Coffee,4.45,290,3,61,58,4,0.23
+starbucks,Drink,Peach Tranquility® Herbal Tea,3.25,0,0,0,0,0,0
+starbucks,Drink,Pike Place® Roast,2.1,5,0,0,0,1,0.01
+starbucks,Drink,Pumpkin Cream Cold Brew,3.25,250,12,31,31,3,0.055
+starbucks,Drink,Pumpkin Spice Crème,4.45,320,7,51,50,15,0.25
+starbucks,Drink,Pumpkin Spice Frappuccino® Blended Beverage,4.95,320,2,71,70,5,0.28
+starbucks,Drink,Pumpkin Spice Frappuccino® Blended Crème,4.95,250,2.5,50,50,6,0.26
+starbucks,Drink,Pumpkin Spice Latte,4.95,310,7,50,48,14,0.23
+starbucks,Drink,Rev Up Wellness Brewed Tea,3.25,0,0,0,0,0,0
+starbucks,Drink,Royal English Breakfast Tea,3.25,0,0,0,0,0,0
+starbucks,Drink,Royal English Breakfast Tea Latte,3.25,150,4,21,21,7,0.105
+starbucks,Drink,Salted Caramel Hot Chocolate,4.45,390,9,66,59,13,0.3
+starbucks,Drink,Salted Caramel Mocha,4.95,360,8,61,53,12,0.28
+starbucks,Drink,Salted Caramel Mocha Frappuccino® Blended Beverage,4.95,300,2.5,65,62,4,0.27
+starbucks,Drink,Skinny Mocha,4.65,170,1.5,24,15,14,0.15
+starbucks,Drink,Starbucks Doubleshot® on Ice Beverage,4.95,100,1,20,18,3,0.04
+starbucks,Drink,Starbucks® Blonde Caffè Latte,4.75,190,7,19,18,13,0.17
+starbucks,Drink,Starbucks® Blonde Caramel Cloud Macchiato,4.95,270,7,39,34,11,0.2
+starbucks,Drink,Starbucks® Blonde Cocoa Cloud Macchiato,4.95,280,8,41,36,12,0.24
+starbucks,Drink,Starbucks® Blonde Doubleshot® On Ice,4.95,80,1,15,13,3,0.04
+starbucks,Drink,Starbucks® Blonde Flat White,4.95,180,7,18,17,12,0.16
+starbucks,Drink,Starbucks® Blonde Iced Pumpkin Spice Latte,4.95,220,4.5,37,35,10,0.17
+starbucks,Drink,Starbucks® Blonde Iced Salted Caramel Mocha,4.95,260,5,44,38,8,0.19
+starbucks,Drink,Starbucks® Blonde Pumpkin Spice Latte,4.95,280,7,42,40,13,0.21
+starbucks,Drink,Starbucks® Blonde Salted Caramel Mocha,4.95,320,8,50,43,12,0.24
+starbucks,Drink,Starbucks® Blonde Vanilla Bean Coconutmilk Latte,4.95,190,6,23,21,11,0.15
+starbucks,Drink,Starbucks® Blonde Vanilla Latte,4.95,240,7,33,31,12,0.16
+starbucks,Drink,Starbucks® Cold Brew Coffee,3.25,5,0,0,0,0,0.015
+starbucks,Drink,Starbucks® Cold Brew Coffee with Milk,3.25,35,1.5,3,3,2,0.04
+starbucks,Drink,Strawberry Frappuccino® Blended Crème,4.95,270,2.5,55,54,4,0.24
+starbucks,Drink,Teavana® Chai Tea,3.25,0,0,0,0,0,0
+starbucks,Drink,Teavana® Earl Grey Brewed Tea,3.25,0,0,0,0,0,0
+starbucks,Drink,Teavana® London Fog Tea Latte,3.25,180,4,29,29,7,0.105
+starbucks,Drink,Teavana® Shaken Iced Black Tea,3.25,45,0,11,11,0,0.01
+starbucks,Drink,Teavana® Shaken Iced Black Tea Lemonade,3.25,90,0,23,22,0,0.01
+starbucks,Drink,Teavana® Shaken Iced Green Tea,3.25,45,0,11,11,0,0.01
+starbucks,Drink,Teavana® Shaken Iced Green Tea Lemonade,3.25,90,0,23,22,0,0.01
+starbucks,Drink,Teavana® Shaken Iced Passion Tango™ Tea,3.25,45,0,11,11,0,0.01
+starbucks,Drink,Teavana® Shaken Iced Passion Tango™ Tea Lemonade,3.25,90,0,23,22,0,0.01
+starbucks,Drink,Teavana® Shaken Iced White Tea,3.25,45,0,11,11,0,0.01
+starbucks,Drink,Teavana® Shaken Iced White Tea Lemonade,3.25,90,0,23,22,0,0.01
+starbucks,Drink,Vanilla Bean Coconutmilk Latte,4.95,220,6,30,28,11,0.15
+starbucks,Drink,Vanilla Bean Crème Frappuccino® Blended Crème,3.95,270,3,56,56,5,0.24
+starbucks,Drink,Vanilla Crème,3.95,270,7,37,37,12,0.18
+starbucks,Drink,Vanilla Sweet Cream Cold Brew,3.25,110,5,14,14,1,0.02
+starbucks,Drink,White Chocolate Mocha,4.45,360,11,53,51,14,0.24
+starbucks,Drink,White Chocolate Mocha Frappuccino® Blended Coffee,3.95,290,3.5,61,61,4,0.24
+starbucks,Salad,Cage-Free Eggs & Seasoned Grains Side Salad,8.95,360,18,33,4,17,0.46
+starbucks,Salad,Cauliflower Tabbouleh Side Salad,8.95,130,12,7,3,2,0.52
+starbucks,Salad,Chicken & Fig Spread,8.95,460,13,61,15,24,0.94
+starbucks,Salad,Chicken BLT Protein Box,5.75,580,23,58,20,35,1.66
+starbucks,Salad,Chicken Wrap Protein Box,5.25,690,31,77,0,30,1
+starbucks,Salad,Eggs & Cheese Protein Box,5.25,470,25,40,21,23,0.54
+starbucks,Salad,Farmers' Market Protein Box,5.25,470,29,29,12,21,0.88
+starbucks,Salad,Garden Greens & Shaved Parmesan Side Salad,4.95,170,13,9,4,7,0.6
+starbucks,Salad,Grilled Chicken & Cauliflower Tabbouleh,5.95,390,27,15,7,21,1.14
+starbucks,Salad,Honey BBQ Sriracha Chicken,5.25,370,8,54,9,22,1.09
+starbucks,Salad,PB&J Protein Box,5.25,520,26,54,30,20,0.57
+starbucks,Salad,Roasted Carrot & Kale Side Salad,4.95,440,26,44,6,10,0.4
+starbucks,Salad,Roasted Turkey & Dill Havarti,7.45,580,31,46,4,32,0.86
+starbucks,Salad,Seasoned Turkey & Green Pepper Pico,7.99,390,18,30,8,28,0.9
+starbucks,Salad,Smoked Mozzarella & Roasted Peppers,6.99,540,28,53,8,19,1.19
+starbucks,Salad,Smoked Pork Cubano,6.95,450,25,66,3,21,1.2
+starbucks,Salad,Smoked Turkey Protein Box,5.75,570,23,54,20,35,1.62
+starbucks,Salad,Turkey Pastrami Reuben,5.75,500,21,50,3,26,1.13
+starbucks,Sandwich,Chicken & Double-Smoked Bacon,5.95,620,26,65,11,31,1.46
+starbucks,Sandwich,Chicken Caprese,5.95,500,18,58,3,28,0.9
+starbucks,Sandwich,Chipotle Chicken Wrap,5.95,470,19,55,6,22,1.05
+starbucks,Sandwich,Crispy Grilled Cheese Sandwich,5.95,540,29,47,1,21,1.06
+starbucks,Sandwich,Everybody's Favorite - Bantam Bagel (2 Pack),2.95,200,8,28,2,6,0.28
+starbucks,Sandwich,Everything Bagel,2.25,290,4,53,5,11,0.45
+starbucks,Sandwich,French Toast - Bantam Bagels (2 Pack),3.75,200,8,30,4,6,0.36
+starbucks,Sandwich,Ham & Swiss Panini,5.95,490,24,42,2,25,1.25
+starbucks,Sandwich,Plain Bagel,1.99,280,1.5,56,2,9,0.62
+starbucks,Sandwich,Sprouted Grain Vegan Bagel,2.45,330,6,57,4,12,0.49
+starbucks,Sandwich,Tomato & Mozzarella,4.99,350,13,42,2,15,0.58
+starbucks,Sandwich,Turkey Pesto Panini,6.45,540,21,55,3,33,1.19
+subway,Breakfast,"Bacon, Egg & Cheese",4.29,450,20,45,4,24,1.2
+subway,Breakfast,"Black Forest Ham, Egg & Cheese",4.29,410,16,45,4,24,1.18
+subway,Breakfast,Egg & Cheese,3.99,380,15,44,3,19,0.95
+subway,Breakfast,"Steak, Egg & Cheese",4.29,440,18,46,4,27,1.27
+subway,Dessert,Caramel Apple Cookie,0.6,210,6,37,26,2,0.065
+subway,Dessert,Chocolate Chip Cookie - SW,0.6,210,10,29,18,2,0.12
+subway,Dessert,Chocolate Chip with M&M,0.6,210,10,30,18,2,0.1
+subway,Dessert,Chocolate Chunk Cookie,0.6,210,10,30,17,2,0.1
+subway,Dessert,Dark Chocolate Cherry Cookie,0.6,200,8,33,24,2,0.1
+subway,Dessert,Double Chocolate,0.6,210,9,30,20,2,0.13
+subway,Dessert,Oatmeal Raisin Cookie - SW,0.6,200,8,30,16,3,0.13
+subway,Dessert,Raspberry Cheesecake Cookie,0.6,200,9,29,16,2,0.12
+subway,Dessert,Raspberry Lemonade Cookie,0.6,230,11,31,20,2,0.1
+subway,Dessert,Sugar Cookie,0.6,230,12,28,14,2,0.13
+subway,Dessert,White Chip Macadamia Nut Cookie,0.6,220,11,28,17,2,0.13
+subway,Salad,Black Forest Ham Salad,7.99,120,3,12,6,13,0.55
+subway,Salad,Chicken & Bacon Ranch,8.78,460,33,13,7,32,1
+subway,Salad,Cold Cut Combo,6.49,180,11,12,5,12,0.83
+subway,Salad,Meatball Marinara Salad,6.48,290,16,22,9,15,0.78
+subway,Salad,Roast Beef Salad,8.78,140,3.5,10,5,19,0.46
+subway,Salad,Rotisserie-Style Chicken Salad,7.78,170,5,10,5,23,0.36
+subway,Salad,Steak & Cheese,8.78,200,9,13,7,19,0.83
+subway,Salad,Steak Club Salad,7.99,480,26,21,9,44,2.05
+subway,Salad,Subway Club®,8.78,140,3,11,5,19,0.61
+subway,Salad,Sweet Onion Chicken Teriyaki Salad,7.78,210,3,30,21,19,0.62
+subway,Salad,Tuna,7.78,310,24,10,5,15,0.37
+subway,Salad,Turkey Breast Salad,7.78,110,2,11,5,14,0.52
+subway,Salad,Veggie Delite® Salad,5.98,50,1,9,5,3,0.075
+subway,Sandwich,Black Forest Ham Sandwich,4.99,260,4,42,8,18,0.72
+subway,Sandwich,Chicken & Bacon Ranch Melt,6.29,530,26,41,6,36,1.1
+subway,Sandwich,Classic Tuna,5.29,450,25,38,5,19,0.61
+subway,Sandwich,Cold Cut Combo,3.99,320,12,40,5,16,1.06
+subway,Sandwich,Ham & Jack Slider,1.89,150,4.5,18,1,8,0.47
+subway,Sandwich,Italian Spice Slider,1.89,230,14,18,2,8,0.69
+subway,Sandwich,Little Cheesesteak Slider,2.39,170,7,19,2,7,0.43
+subway,Sandwich,Meatball Marinara Sandwich,4.99,420,18,47,7,19,1.04
+subway,Sandwich,Roast Beef Sandwich,6.29,280,4.5,40,7,25,0.63
+subway,Sandwich,Rotisserie-Style Chicken Sandwich,5.29,310,6,40,7,28,0.52
+subway,Sandwich,Spicy Italian,5.99,450,24,40,5,18,1.24
+subway,Sandwich,Steak Club,7.29,490,25,40,6,27,1.33
+subway,Sandwich,Subway Club®,6.29,280,4,41,7,25,0.78
+subway,Sandwich,Sweet Onion Chicken Teriyaki Sandwich,5.29,320,4,52,16,25,0.72
+subway,Sandwich,Turkey & Bacon Guacamole,8.29,780,27,87,11,49,2.2
+subway,Sandwich,Turkey Breast Sandwich,5.29,250,3,41,6,20,0.69
+subway,Sandwich,Ultimate Steak,7.49,600,35,42,6,31,1.33
+subway,Sandwich,Veggie Delite® Sandwich,3.49,190,2,39,6,9,0.24
