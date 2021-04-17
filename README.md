@@ -2,7 +2,7 @@
 
 # How to run code
 
-1. Download either the fast_food_analysis_IAT_project.ipynb notebook or the fast_food_analysis_IAT_project.py file.
-2. You may run the ipynb notebook directly using jupyter notebooks as long as you have dash installed. (pip command to install dash commented out)
-3. Alternatively, you may also run the python file using any IDE on your local machine as long as dash is installed.
-4. The video and the report contain instructions and details on how to explore the visualizations.
+1. Use either the fast_food_analysis_IAT_project.ipynb notebook or the fast_food_analysis_IAT_project.py file in the 'code folder'.
+2. As long as you have dash installed (pip command included), you may choose to run the .ipynb file on jupyter notebooks or the python file locally.
+3. The project video and report contain instructions and details on how to explore the visualizations.
+
